@@ -1,0 +1,50 @@
+  330  git diff
+  331  git status
+  332  git diff README.md
+  333  git add .
+  334  git status
+  335  git commit -m "Retrieve and cleaned the data, created analysis report . Updated the readme with relavant documentation"
+  336  git status
+  337  git push
+  338  git status
+  339  git diff
+  340  git add .
+  341  git status
+  342  git commit -m"Removed some stale data from the documentation template"
+  343  git history 50
+  344  history 50
+  345  history 50 > terminalHistory.txt
+  346  git status
+  347  git add .
+  348  git status
+  349  git commit -m "To Add terminal history for assignment submission"
+  350  git push
+  351  git pull
+  352  git status
+  353  git status
+  354  git push
+  355  cd desktop/Challenge_Folder/ 
+  356  ls
+  357  mkdir Module4
+  358  cd Module4
+  359  git clone https://github.com/Ahmedfadiya/Module_4_Challenge.git
+  360  ls
+  361  git status
+  362  ls
+  363  cd Module_4_Challenge/
+  364  ls
+  365  git status
+  366  git add
+  367  git add .
+  368  git status
+  369  git commit -m "Pushing in the starter code"
+  370  git push
+  371  git status
+  372  pwd
+  373  git status
+  374  git add .
+  375  git commit -m "Final codes with data and plots to calculate risk management metrics."
+  376  git push
+  377  git pull
+  378  git push
+  379  history 50 > terminalhistory,txt
